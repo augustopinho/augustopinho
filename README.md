@@ -1,4 +1,4 @@
-# Iae tudo bom? Eu sou o Augusto, estudante de Data Science e sempre curioso com a técnologia.
+### Iae tudo bom? Eu sou o Augusto, estudante de Data Science e sempre curioso com a técnologia.
 
 ## 👨‍💻 Sobre mim:
 
