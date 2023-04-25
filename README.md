@@ -22,6 +22,7 @@
 - 🥘 E uma curiosidade: Sou um aspirante a cozinheiro, de vez em quando faço uns bons rangos! 
 
 ## Ferramentas e linguagens:
+   
 <div align="center">
 <a href='https://www.python.org'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
@@ -44,6 +45,8 @@
 
 </div>
 
-##Onde pode me encontrar:
+#
+## Onde pode me encontrar:
+
 [![linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-pinho/)
 [![outlook](https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:augustopinho@hotmail.com)
