@@ -1,4 +1,4 @@
-### Iae tudo bom? Eu sou o Augusto, estudante de Data Science e sempre curioso com a técnologia.
+# Iae, tudo bom? Eu sou o Augusto 👋
 
 ## 👨‍💻 Sobre mim:
 
@@ -15,10 +15,35 @@
 
 <div align="left">
 
-- 📚 Estudo Big Data na Fatec Ipiranga 
+- 📚 Sou estudante de Data Science, mais especifico, estudo Big Data na Fatec Ipiranga.
 - 🚀 Atualmente, estou me aprofundando em MongoDB e Estrutura de dados.
+- 👀 Sou sempre curioso com o que a técnologia pode oferecer.
 - 💬 Se quiser falar comigo, só me dar toque no [Linkedin](https://www.linkedin.com/in/augusto-pinho/)! Será bem-vindo.  
 - 🥘 E uma curiosidade: Sou um aspirante a cozinheiro, de vez em quando faço uns bons rangos! 
 
 ## Ferramentas e linguagens:
 <div align="center">
+<a href='https://www.python.org'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" />
+</a>
+<a href='https://jupyter.org/'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="50" height="50" />
+</a>
+<a href='https://www.postgresql.org/'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50"/>
+</a>
+<a href='https://www.mongodb.com/'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="50" height="50" />
+</a>
+<a href='https://git-scm.com'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
+</a>
+<a href='https://github.com/'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+</a>
+
+</div>
+
+##Onde pode me encontrar:
+[![linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-pinho/)
+[![outlook](https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:augustopinho@hotmail.com)
