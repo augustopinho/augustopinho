@@ -1,4 +1,4 @@
-# Iae, tudo bom? Eu sou o Augusto 👋
+# Eae, tudo bom? Eu sou o Augusto 👋
 
 ## 👨‍💻 Sobre mim:
 
