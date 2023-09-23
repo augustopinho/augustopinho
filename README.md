@@ -19,7 +19,7 @@
 - 🚀 Atualmente, estou me aprofundando em PlpgSQL e Python.
 - 👀 Sou sempre curioso com o que a de novo em técnologia.
 - 💬 Se quiser falar comigo, só me dar toque no [Linkedin](https://www.linkedin.com/in/augusto-pinho/)! Será bem-vindo.  
-- 🎮 E uma curiosidade: Sou um gamer, jogo Starcraft 2 e CS! 
+- 🎮 E uma curiosidade: Sou um gamer casual, jogo Starcraft 2 e CS! 
 
 ## Ferramentas e linguagens:
    
