@@ -1,4 +1,4 @@
-# Eae, tudo bom? Eu sou o Augusto 👋
+# Oi, tudo bom? Eu sou o Augusto 👋
 
 ## 👨‍💻 Sobre mim:
 
@@ -16,10 +16,10 @@
 <div align="left">
 
 - 📚 Sou estudante de Data Science, mais especifico, estudo Big Data na Fatec Ipiranga.
-- 🚀 Atualmente, estou me aprofundando em MongoDB e Estrutura de dados.
-- 👀 Sou sempre curioso com o que a técnologia pode oferecer.
+- 🚀 Atualmente, estou me aprofundando em PlpgSQL e Python.
+- 👀 Sou sempre curioso com o que a de novo em técnologia.
 - 💬 Se quiser falar comigo, só me dar toque no [Linkedin](https://www.linkedin.com/in/augusto-pinho/)! Será bem-vindo.  
-- 🥘 E uma curiosidade: Sou um aspirante a cozinheiro, de vez em quando faço uns bons rangos! 
+- 🎮 E uma curiosidade: Sou um gamer, jogo Starcraft 2! 
 
 ## Ferramentas e linguagens:
    
@@ -36,11 +36,17 @@
 <a href='https://www.mongodb.com/'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="50" height="50" />
 </a>
+<a href='https://neo4j.com/'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="50" height="50" />
+</a>
 <a href='https://git-scm.com'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
 </a>
 <a href='https://github.com/'>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+</a>
+<a href='https://aws.amazon.com/pt/'>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonaws/amazonaws-original.svg" width="50" height="50"/>
 </a>
 
 </div>
