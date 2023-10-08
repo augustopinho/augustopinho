@@ -19,7 +19,7 @@
 - 🚀 Atualmente, estou me aprofundando em PlpgSQL e Python.
 - 👀 Sou sempre curioso com o que a de novo em técnologia.
 - 💬 Se quiser falar comigo, só me dar toque no [Linkedin](https://www.linkedin.com/in/augusto-pinho/)! Será bem-vindo.  
-- 🎮 E uma curiosidade: Sou um gamer casual, jogo Starcraft 2 e CS! 
+- 🎮 E uma curiosidade: Sou um gamer casual. Jogo Starcraft 2 e CS! 
 
 ## Ferramentas e linguagens:
    
@@ -46,7 +46,16 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
 </a>
 <a href='https://aws.amazon.com/pt/'>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" width="50" height="50"/>
+<img src="https://icons8.com/icon/33039/amazon-web-services" width="50" height="50"/>
+</a>
+<a href='https://powerbi.microsoft.com/pt-br/'>
+<img src="https://icons8.com/icon/3sGOUDo9nJ4k/power-bi-2021" width="50" height="50"/>
+</a>
+<a href='https://www.microsoft.com/pt-br/microsoft-365/excel'>
+<img src="https://icons8.com/icon/UECmBSgBOvPT/microsoft-excel-2019" width="50" height="50"/>
+</a>
+<a href='https://www.microsoft.com/pt-br/microsoft-365/powerpoint'>
+<img src="https://icons8.com/icon/117557/microsoft-powerpoint-2019" width="50" height="50"/>
 </a>
 
 </div>
