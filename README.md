@@ -46,7 +46,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
 </a>
 <a href='https://aws.amazon.com/pt/'>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/amazonaws.svg" width="50" height="50"/>
 </a>
 <a href='https://powerbi.microsoft.com/pt-br/'>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/powerbi.svg" width="50" height="50"/>
