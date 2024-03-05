@@ -16,7 +16,7 @@
 <div align="left">
 
 - 📚 Sou estudante de Data Science, mais especifico, estudo Big Data na Fatec Ipiranga.
-- 🚀 Atualmente, estou me aprofundando em PlpgSQL e Python.
+- 🌿 Atualmente estou trabalhando na companhia Tania Bulhões.
 - 👀 Sou sempre curioso com o que a de novo em técnologia.
 - 💬 Se quiser falar comigo, só me dar toque no [Linkedin](https://www.linkedin.com/in/augusto-pinho/)! Será bem-vindo.  
 - 🎮 E uma curiosidade: Sou um gamer casual. Jogo Starcraft 2 e CS! 
