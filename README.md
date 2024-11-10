@@ -53,9 +53,6 @@
 <a href='https://www.microsoft.com/pt-br/microsoft-365/excel'>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftexcel.svg" width="50" height="50"/>
 </a>
-<a href='https://www.microsoft.com/pt-br/microsoft-365/powerpoint'>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftpowerpoint.svg" width="50" height="50"/>
-</a>
 </div>
 
 #
